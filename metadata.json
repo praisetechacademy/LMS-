@@ -1,0 +1,6 @@
+{
+  "name": "Praise Tech Solution",
+  "description": "A complete professional Learning Management System (LMS) app by Praise Tech Solution, with standard student profiles, course video learning system, Flutterwave payments simulator, certificates, and administration console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
